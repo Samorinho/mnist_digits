@@ -6,7 +6,7 @@
 * Keras (Deep Learning library)
 * Gradio (Customizable GUI component generator)
 ### Requirements
-* [IDE](https://www.jetbrains.com/pycharm/) (e.g.: PyCharm)
+* [IDE](https://www.jetbrains.com/pycharm/) (e.g.: PyCharm, if necessary)
 * [Python](https://www.python.org/downloads/)
 * [PIP](https://pypi.org/project/pip/) (if necessary)
 ### Setup
